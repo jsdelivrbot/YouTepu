@@ -1,0 +1,25 @@
+
+
+.search-bar,.title{
+    text-align: center !important;
+    margin:2vh;
+}
+
+.search-bar-input{
+    width: 75%;
+}
+.search-bar-input:placeholder{
+    text-align: 75%;
+    color:blueviolet
+}
+
+
+.list-group-item:hover{
+    background-color: darkslategray;
+    color:white;
+}
+
+.title{
+    color:red
+}
+
